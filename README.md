@@ -15,5 +15,10 @@ sudo ./boot.sh
 
 Use target divice search for the bluetooth equipment. 
 
+# TODOs
+* enable multi-divice capability
+* add gui to switch between different divices
+* 
+
 # Video Demo
  [![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=fFpIvjS4AXs)
