@@ -1,6 +1,6 @@
 # Bluetooth Keyvoard API
 
-The idea is connect a regular keyboard on a Raspberry Pi and connect the Raspberry Pi to any other divice like iPhone/Pad, Andriod Phone/Pad, Windows PC, Linux PC. It can forward the keyboard to the target divice. 
+The idea is connect a regular keyboard on a Raspberry Pi and connect the Raspberry Pi to any other device like iPhone/Pad, Andriod Phone/Pad, Windows PC, Linux PC. It can forward the keyboard to the target device. 
 
 
 # How To
@@ -13,11 +13,11 @@ sudo ./boot.sh
 
 ### Step 4: Connect divice
 
-Use target divice search for the bluetooth equipment. 
+Use target device search for the bluetooth equipment. 
 
 # TODOs
-* enable multi-divice capability
-* add gui to switch between different divices
+* enable multi-device capability
+* add gui to switch between different devices
 * 
 
 # Video Demo
